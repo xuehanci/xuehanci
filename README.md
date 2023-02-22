@@ -5,10 +5,12 @@
 
  My projects 🌱
 
- [Comparative analysis of the treatment of asymptomatic and symptomatic complex aortic aneurysms]
-## team collaboration with University of Washington School of Medicine
-## To identify the differences in outcomes for asymptomatic and symptomatic patients treated with endovascular intervention.
-## Model used: univariate analyses, Kaplan-Meier curves, log-rank test, generalized estimating equations (GEE), cox-proportional hazards model, logistic regression
+ [Comparative analysis of the treatment of asymptomatic and symptomatic complex aortic aneurysms]()
+team collaboration with University of Washington School of Medicine
+To identify the differences in outcomes for asymptomatic and symptomatic patients treated with endovascular intervention.
+Model used: univariate analyses, Kaplan-Meier curves, log-rank test, generalized estimating equations (GEE), cox-proportional hazards model, logistic regression
+
+
 
 
 
