@@ -11,6 +11,11 @@ To identify the differences in outcomes for asymptomatic and symptomatic patient
 Model used: univariate analyses, Kaplan-Meier curves, log-rank test, generalized estimating equations (GEE), cox-proportional hazards model, logistic regression
 
 
+[Small-Area Estimation (SAE) in the application of Prevalence of Malaria among children in Kenya](https://github.com/xuehanci/SAE)
+An overview of malaria prevalence in Kenya using small area estimation (SAE) techniques. Review the current status of malaria control in Kenya and the role of SAE in improving our understanding of the prevalence and distribution of the disease.
 
+
+[Predict patient's extent of cognitive impairment and identify most important determined measures](https://github.com/xuehanci/544)
+Application of prediction model for Alzheimer Disease, find out the predictors significant in predicting the cognitive impairment level
 
 
